@@ -1,10 +1,10 @@
-package com.example.ScrunchWorks;
+package com.example.Office;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ScrunchWorksApplicationTests {
+class OfficeApplicationTests {
 
 	@Test
 	void contextLoads() {
